@@ -1,0 +1,2 @@
+client id google 476058219821-vdnocb4dvmjh0apkr6ini82q45edrhht.apps.googleusercontent.com
+github client id Ov23lisEhPX4SNdejkEo
